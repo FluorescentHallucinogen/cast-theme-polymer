@@ -17,3 +17,6 @@ limitations under the License.
 variables and mixins to customize Cast Polymer elements for your app.
 
 To edit the theme, from your project route open `bower_components/cast-theme-polymer/cast-theme.html`.
+
+## Terms
+Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/) and the [Google Cast SDK Additional Developer Terms of Service](https://developers.google.com/cast/docs/terms/).
